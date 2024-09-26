@@ -7,3 +7,7 @@
 ### Update
 #### ACU 
 1. open gripper individual control interface 
+## V1.0.5
+### Update
+#### ACU 
+1. add gripper individual control 
