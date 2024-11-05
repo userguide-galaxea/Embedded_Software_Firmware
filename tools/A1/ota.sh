@@ -9,7 +9,7 @@ fi
 # 从传入参数中获取命令和参数
 bin_filename="$1"
 selected_port="$2"
-command="./tools/ota.out"
+command="./ota.out"
 
 # 执行命令的函数
 execute_command() {
