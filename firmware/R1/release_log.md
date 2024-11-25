@@ -24,3 +24,12 @@
 1. add erase arm error
 2. add torso imu
 3. add arm joint angle limit
+## V1.0.4
+#### Update
+1. add acu loader by usb
+2. add ccu software power switch
+3. modify tcu reset gravity limit
+4. modify acu and ccu imu freq
+5. fix bug of erase flash 
+6. fix bug of led display
+7. fix vcu bug of emergency stop
